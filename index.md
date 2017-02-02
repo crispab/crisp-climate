@@ -42,25 +42,25 @@ We’re just getting started, but check the next pages for some examples (in Swe
 # How do you work in practice?
 
 This is still taking shape, but our goal is to have:
- - Regular meetups, both local face-2-face meetups and online meetups.
- - A slack channel, blog, etc.
+* Regular meetups, both local face-2-face meetups and online meetups.
+* A slack channel, blog, etc.
 
 # What are your guiding principles?
 
- - Pragmatic > Fundamentalist
- - Inclusive/Open > Exclusive/Secret
- - Action > Blame/Shame/Denial
- - Inspire > Push
-    We don’t try to force agendas on each other, or force ourselves to agree on a single approach. Instead we share knowledge and inspire everyone to act on own initiative.
- - All solutions are right
-   We don’t know in advance which solutions are best. So whether or not I believe in your solution, I will applaud you for trying it out.
- - Data > Opinion.
-    We try to quantify our efforts, and base our learnings and conclusions on real data.
- - Long term > Short term
-    Global warming is a long term problem, so we are looking for long term solutions
- - Global > Local
-   1 ton of CO2 = 1 ton of CO2 regardless of location
- - Respect
-   We treat everyone with respect, even those who don’t agree with what we’re doing or how we’re doing it.
- - No political affiliation
-   We’ll support anyone who shares our mission.
+* Pragmatic > Fundamentalist
+* Inclusive/Open > Exclusive/Secret
+* Action > Blame/Shame/Denial
+* Inspire > Push  
+  We don’t try to force agendas on each other, or force ourselves to agree on a single approach. Instead we share knowledge and inspire everyone to act on own initiative.
+* All solutions are right  
+  We don’t know in advance which solutions are best. So whether or not I believe in your solution, I will applaud you for trying it out.
+* Data > Opinion.  
+  We try to quantify our efforts, and base our learnings and conclusions on real data.
+* Long term > Short term  
+  Global warming is a long term problem, so we are looking for long term solutions
+* Global > Local  
+  1 ton of CO2 = 1 ton of CO2 regardless of location
+* Respect  
+  We treat everyone with respect, even those who don’t agree with what we’re doing or how we’re doing it.
+* No political affiliation  
+  We’ll support anyone who shares our mission.
