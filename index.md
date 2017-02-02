@@ -1,4 +1,4 @@
---
+---
 title: Crisp Climate Crisplet
 ---
 # Our Mission: Reduce Global Warming
@@ -7,7 +7,7 @@ Global warming is the biggest challenge in the world!
 The main cause of global warming is CO2 emission.
 Therefore, if we find ways to reduce global CO2 emissions, we can make the world a better place!
 
-# What is Climate Crisplet?
+# What is the Climate Crisplet?
 
 We are a community dedicated to reducing global warming, mainly by finding ways to reduce global CO2 emissions.
 
