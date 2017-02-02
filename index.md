@@ -42,6 +42,7 @@ We’re just getting started, but check the next pages for some examples (in Swe
 # How do you work in practice?
 
 This is still taking shape, but our goal is to have:
+
 * Regular meetups, both local face-2-face meetups and online meetups.
 * A slack channel, blog, etc.
 
