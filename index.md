@@ -33,11 +33,11 @@ Email us at climate@crisp.com
 
 # How do I join?
 
-Fill in this survey: [Climate Crisplet - I’m in!](https://docs.google.com/a/crisp.se/forms/d/1lN3gbwiiN7OugUjc8I7WAXlzlMKNfPeRt-0W-2XjXJ0/edit){:target="_blank"}
+Fill in this survey: [Climate Crisplet - I’m in!](https://docs.google.com/forms/d/e/1FAIpQLSexqGYBhv8nvvjVHZ737pu9rd3zL1e4iqXhAbtE7myr3IbJZw/viewform){:target="_blank"}
 
 # How are you reducing global warming?
 
-We’re just getting started, but check the next pages for some examples (in Swedish right now). We aim to pull whatever levers we can - technology, policy, law, market forces, research, education, lobbying, etc.
+We’re just getting started, but check [this deck](https://docs.google.com/presentation/d/1iTbILs9_qa8oXPPANPlI8Hgex886LKzdXDewWMaFQJA/edit#slide=id.g20c889a8d2_0_15) for some examples (in Swedish right now). We aim to pull whatever levers we can - technology, policy, law, market forces, research, education, lobbying, etc.
 
 # How do you work in practice?
 
