@@ -37,14 +37,11 @@ Fill in this survey: [Climate Crisplet - I’m in!](https://docs.google.com/form
 
 # How are you reducing global warming?
 
-We’re just getting started, but check [this deck](https://docs.google.com/presentation/d/1iTbILs9_qa8oXPPANPlI8Hgex886LKzdXDewWMaFQJA/edit#slide=id.g20c889a8d2_0_15) for some examples (in Swedish right now). We aim to pull whatever levers we can - technology, policy, law, market forces, research, education, lobbying, etc.
+We’re just getting started, but we [blog about it here](http://blog.crisp.se/tag/climate). We aim to pull whatever levers we can - technology, policy, law, market forces, research, education, lobbying, etc.
 
 # How do you work in practice?
 
-This is still taking shape, but our goal is to have:
-
-* Regular meetups, both local face-2-face meetups and online meetups.
-* A slack channel, blog, etc.
+Currently we have an active slack and regular (both face to face and online).
 
 # What are your guiding principles?
 
