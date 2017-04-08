@@ -7,6 +7,10 @@ Global warming is the biggest challenge in the world!
 The main cause of global warming is CO<sub>2</sub> emission.
 Therefore, if we find ways to reduce global CO<sub>2</sub> emissions, we can make the world a better place!
 
+# Watch the video
+
+* [Friendly Guide to Global Warming - and what you can do to help](https://youtu.be/3CM_KkDuzGQ)
+
 # Recent posts
 
 * [Effective carbon offsetting – what we’ve learned and what we’re doing](http://blog.crisp.se/2017/03/31/henrikkniberg/effective-carbon-offsetting-what-weve-learned-and-what-were-doing)
