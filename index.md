@@ -37,7 +37,7 @@ We’re definitely not alone, so we’re happy to support and collaborate with o
 
 # How do I get in touch?
 
-Email us at climate@crisp.com
+Email us: climate AT crisp.se
 
 # How do I join?
 
