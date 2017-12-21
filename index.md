@@ -21,6 +21,7 @@ Therefore, if we find ways to reduce global CO<sub>2</sub> emissions, we can mak
 * [ElectricityMap.org](https://www.electricitymap.org/?wind=false&solar=false&page=map)
 * [Trine](https://www.jointrine.com)
 * [CarbonManifesto.org](http://carbonmanifesto.org/)
+* ... and more ...
 
 # What is the Climate Crisplet?
 
@@ -42,21 +43,21 @@ Climate Crisplet is an open and inclusive community. Feel free to join if you sh
 
 We’re definitely not alone, so we’re happy to support and collaborate with other organizations that share the same mission.
 
-# How do I get in touch?
-
-Email climate AT crisp.se (we read all emails but can't guarantee a response, depends on email volume)
-
 # How do I join?
 
 Fill in this survey: [Climate Crisplet - I’m in!](https://docs.google.com/forms/d/e/1FAIpQLSexqGYBhv8nvvjVHZ737pu9rd3zL1e4iqXhAbtE7myr3IbJZw/viewform){:target="_blank"}
 
+# How do I get in touch?
+
+Email climate AT crisp.se (we read all emails but can't guarantee a response, depends on email volume)
+
 # How are you reducing global warming?
 
-We’re just getting started, but we [blog about it here](http://blog.crisp.se/tag/climate). We aim to pull whatever levers we can - technology, policy, law, market forces, research, education, lobbying, etc.
+We don't have any complete list, but we [blog about some stuff here](http://blog.crisp.se/tag/climate). We aim to pull whatever levers we can - technology, policy, law, market forces, research, education, lobbying, etc. We've listed some initiatives we are involved in at the top of this page.
 
 # How do you work in practice?
 
-Currently we have an active slack and regular (both face to face and online).
+Currently we have an active slack and meetups every month or two (both face to face and online).
 
 # What are your guiding principles?
 
