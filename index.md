@@ -11,9 +11,16 @@ Therefore, if we find ways to reduce global CO<sub>2</sub> emissions, we can mak
 
 * [Friendly Guide to Global Warming - and what you can do to help](https://youtu.be/3CM_KkDuzGQ)
 
-# Recent posts
+# Articles
 
-* [Effective carbon offsetting – what we’ve learned and what we’re doing](http://blog.crisp.se/2017/03/31/henrikkniberg/effective-carbon-offsetting-what-weve-learned-and-what-were-doing)
+* [Our blog articles about climate stuff](https://blog.crisp.se/tag/climate)
+
+# Initiatives that we are involved in
+
+* [GoClimateNeutral.org](http://goclimateneutral.org)
+* [ElectricityMap.org](https://www.electricitymap.org/?wind=false&solar=false&page=map)
+* [Trine](https://www.jointrine.com)
+* [CarbonManifesto.org](http://carbonmanifesto.org/)
 
 # What is the Climate Crisplet?
 
