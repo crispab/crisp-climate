@@ -35,7 +35,7 @@ We started this community because we noticed that a lot of very smart, passionat
 
 [Crisp](https://www.crisp.se){:target="_blank"} is a Swedish consulting company. Crisplet is just the term we use for an internal community of interest. Although in this case it is an open community.
 
-So think of Crisp as the host of the community. See [dna.crisp.se](https://dna.crips.se){:target="_blank"} for more info about this interesting and rather odd company :o)
+So think of Crisp as the host of the community. See [dna.crisp.se](https://dna.crisp.se){:target="_blank"} for more info about this interesting and rather odd company :o)
 
 # What does it mean to be a member?
 
