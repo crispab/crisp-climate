@@ -13,4 +13,3 @@ Therefore, if we find ways to reduce global CO<sub>2</sub> emissions, we can mak
 Several people at Crisp are involved in trying to stop climate change. Here are some companies and sites that we have founded or co-founded.
 * [GoClimate.com](http://goclimate.com)
 * [ClimateView.global](https://www.climateview.global)
-* [CarbonManifesto.org](http://carbonmanifesto.org/)
